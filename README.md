@@ -19,8 +19,10 @@ The component has been extended to support rendering SharePoint content in ifram
  
 #ARCHITECTURE
 
-![VSTS build picture](./ARCHITECTURE/Diagram1.png)
-![VSTS build picture](./ARCHITECTURE/Diagram2.png)
+![alt text](https://github.com/dnvgldevelopers/CORS/blob/master/architecture/diagram1.png?raw=true)
+
+
+![alt text](https://github.com/dnvgldevelopers/CORS/blob/master/architecture/diagram2.png?raw=true)
 
 #CUSTOMIZATIONS
 
