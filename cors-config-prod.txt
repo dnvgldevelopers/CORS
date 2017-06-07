@@ -1,0 +1,17 @@
+﻿############################################################
+#
+# Cross Origin Resource Sharing (CORS) Whitelist
+#
+# FORMAT: HttpContext.Current.Request.Url.Host<HttpContext.Current.Request.Headers["ORIGIN"]
+#                                       Server<Client
+#
+# Append your dev env CORS whitelist below.
+# 
+# WARNING! Duplicate lines of configuration in this file is not supported (except in comments)
+#
+############################################################
+
+# Put your hosts and origins here, following that examples #
+
+search.mydomain.com<https://intranet.mydomain.com
+intranet.mydomain.com<https://search.mydomain.com
